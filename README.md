@@ -43,6 +43,20 @@ Mystic Street Dice Game 2 is an engaging and captivating mobile game that blends
 
 ![image](https://github.com/user-attachments/assets/e3c24771-175d-4c78-a5f1-f3258d99a762)
 
+# Other Files
+## anim
+
+![image](https://github.com/user-attachments/assets/b9b47d5e-6721-486a-845f-3ee57199f8d4)
+
+## font
+
+![image](https://github.com/user-attachments/assets/ba422149-aff3-4c8d-9b54-95f6e49f9ce8)
+
+# Folder Structure
+
+![image](https://github.com/user-attachments/assets/a1b17ebe-244e-409a-8da1-a78b4cc3f0ad)
+![image](https://github.com/user-attachments/assets/dbccc523-89f4-464b-a05b-86deda6159c9)
+
 
 ## Gameplay Mechanics
 
