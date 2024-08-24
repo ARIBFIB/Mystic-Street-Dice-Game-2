@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menudice1"
+        android:icon="@drawable/baseline_shopping_cart_24"
+        android:title="Store"/>
+
+    <item
+        android:id="@+id/menudice2"
+        android:icon="@drawable/baseline_daily"
+        android:title="Daily"/>
+
+
+    <item
+        android:id="@+id/menudice3"
+        android:icon="@drawable/baseline_dicevector"
+        android:title="Dice"/>
+
+
+    <item
+        android:id="@+id/menudice4"
+        android:icon="@drawable/baseline_trading"
+        android:title="Trading"/>
+
+    <item
+        android:id="@+id/menudice5"
+        android:icon="@drawable/baseline_newspaper_24"
+        android:title="News"/>
+
+
+
+</menu>
